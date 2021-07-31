@@ -11,3 +11,10 @@ git init  ============= intialize empty repo
 ls -lart
 git status ==== Check git Status
 git add (filename with extension) ==============  
+
+
+git commit
+
+intial commit
+
+press Esc :wq then Enter
