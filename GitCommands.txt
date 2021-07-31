@@ -1,0 +1,13 @@
+Open =========> Window Power Shall (Terminal)
+
+git ======= > Enter
+
+git config
+git config --global user.name
+git config --global user.email
+
+git init  ============= intialize empty repo
+
+ls -lart
+git status ==== Check git Status
+git add (filename with extension) ==============  
