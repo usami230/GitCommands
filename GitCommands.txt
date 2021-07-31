@@ -6,15 +6,14 @@ git config
 git config --global user.name
 git config --global user.email
 
-git init  ============= intialize empty repo
-
-ls -lart
-git status ==== Check git Status
-git add (filename with extension) ==============  
 
 
-git commit
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/usami230/GitCommands.git
+git push -u origin main
 
-intial commit
 
-press Esc :wq then Enter
+touch about.html ===== create new file
