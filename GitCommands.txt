@@ -17,3 +17,5 @@ git push -u origin main
 
 
 touch about.html ===== create new file
+
+git Add -A
