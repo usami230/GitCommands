@@ -18,4 +18,14 @@ git push -u origin main
 
 touch about.html ===== create new file
 
-git Add -A
+git add -A
+
+clear  ===== Terminal Clear
+
+git log ======== check log
+
+git log -p -2 =========== check commit range check changes
+
+git diff ====== compare stating area
+
+git diff --staged === staging area compare last commit
