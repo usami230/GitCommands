@@ -1,4 +1,4 @@
-Open =========> Window Power Shall (Terminal)
+
 
 git ======= > Enter
 
@@ -29,3 +29,6 @@ git log -p -2 =========== check commit range check changes
 git diff ====== compare stating area
 
 git diff --staged === staging area compare last commit
+
+
+git difftool ./filepath  ===== Compare code
