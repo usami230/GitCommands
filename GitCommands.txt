@@ -8,6 +8,7 @@ git config --global user.email
 
 
 
+
 git init
 git add README.md
 git commit -m "first commit"
@@ -30,5 +31,12 @@ git diff ====== compare stating area
 
 git diff --staged === staging area compare last commit
 
+git branch or git branch --list        ============= View branches
+
+git branch -d <branch-name> delete =======branch
 
 git difftool ./filepath  ===== Compare code
+
+git pull remote ================= Pull command
+
+git clone https://github.com/usami230/GitCommands.git
