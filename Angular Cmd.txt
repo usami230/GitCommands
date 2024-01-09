@@ -1,0 +1,48 @@
+Node Version Check ===> node -v
+
+angular version check ========> ng v
+
+node pkg mangenment ======> npm -v
+
+Angular install ===> npm install -g @angular/cli
+Angular Ubinstall  ===> npm uninstall -g @angular/cli 
+
+
+
+Specfic version ===> npm install @angular/cli@15 
+
+after angular install check =========> ng help
+
+Create new project ==========> ng new my-first-project
+ng new project --no-standalone
+
+
+after vs install open vs =========> code .
+
+project run ========> ng serve
+
+create component ==========> ng generate component login
+
+create component ==========> ng g c registration
+
+create module =========> ng g m user-auth
+
+create service =========> ng g service 
+
+within folder create component =======> ng g c login/comname
+
+create class ===========> ng generate class Classname
+
+create interface===========> ng g interface interfacename
+
+create build ==========> ng build
+
+
+create pagination npm install ngx-pagination
+
+create auth guard ===========> ng g guard guardname
+
+create custom pipe ========> ng g t pipename
+
+
+child to parant
