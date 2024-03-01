@@ -15,7 +15,7 @@ after angular install check =========> ng help
 
 Create new project ==========> ng new my-first-project
 ng new project --no-standalone
-
+ng generate component --standalone false
 
 after vs install open vs =========> code .
 
