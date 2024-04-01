@@ -17,6 +17,8 @@ after angular install check =========> ng help
 npm uninstall @angular-devkit/build-angular
 npm install --save-dev @angular-devkit/build-angular
 npm install @angular-devkit/build-angular --force
+ng update @angular/cli @angular/core
+
 
 Create new project ==========> ng new my-first-project
 ng new project --no-standalone
