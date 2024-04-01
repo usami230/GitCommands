@@ -9,7 +9,7 @@ Angular Ubinstall  ===> npm uninstall -g @angular/cli
 
 
 
-Specfic version ===> npm install @angular/cli@15 
+Specfic version ===> npm install -g @angular/cli@15 
 
 after angular install check =========> ng help
 
