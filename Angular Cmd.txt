@@ -35,6 +35,7 @@ create component ==========> ng g c registration
 create module =========> ng g m user-auth
 
 create service =========> ng g service 
+create service =========> ng g s shared/services/blog
 
 within folder create component =======> ng g c login/comname
 
