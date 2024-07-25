@@ -52,5 +52,13 @@ create auth guard ===========> ng g guard guardname
 
 create custom pipe ========> ng g t pipename
 
+ng serve --configuration=development
+ng build --configuration=development
+
+ng serve --configuration=staging
+ng build --configuration=staging
+
+ng serve --configuration=production
+ng build --configuration=production
 
 child to parant
