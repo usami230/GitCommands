@@ -33,6 +33,7 @@ create component ==========> ng generate component login
 create component ==========> ng g c registration
 
 create module =========> ng g m user-auth
+create module with routing =========> ng generate module components/interpreter --routing
 
 create service =========> ng g service 
 create service =========> ng g s shared/services/blog
